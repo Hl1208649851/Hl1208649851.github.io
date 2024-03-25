@@ -10,7 +10,7 @@
       <p><b>helian@bit.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="figs/Hel.jpg" width="100%">   
+      <img src="figs/HeL.jpg" width="100%">   
     </td>
   </tr>
 </table>
