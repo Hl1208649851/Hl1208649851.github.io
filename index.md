@@ -10,10 +10,11 @@
       <p><b>xuetong@bit.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="https://user-images.githubusercontent.com/57761094/139632689-298b892e-2684-4b25-91ab-fa626c7d194b.jpg" width="100%">   
+      <img src="figs/test.png" width="100%">   
     </td>
   </tr>
 </table>
+
 
 
 
