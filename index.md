@@ -37,9 +37,9 @@ I received B.E. degree from  Beijing Institute of Technology in 2022. I am curre
 
 
 ### 学术成果
-  - **何莲**,黄可翔,闫大鹏等.群体机械道具表演行为建模与仿真研究[J/OL].系统仿真学报:1-12[2024-03-25]. **EI期刊, 第一作者**
+  - **何莲**,黄可翔,闫大鹏等.群体机械道具表演行为建模与仿真研究[J/OL].系统仿真学报:1-12[2024-03-25]. **核心期刊, 第一作者**
     
-  - Yan, D.; Ding, G.; Huang, K.; Bai, C.; **He, L**.; Zhang, L. Enhanced Crowd Dynamics Simulation with Deep Learning and Improved Social Force Model. **SCI四区，IF=2.9，第五作者**
+  - Yan, D.; Ding, G.; Huang, K.; Bai, C.; **He, L**.; Zhang, L. Enhanced Crowd Dynamics Simulation with Deep Learning and Improved Social Force Model. **SCI三区，IF=2.9，第五作者**
   
   - 虚拟空间虚拟体构建方法、装置、设备及存储介质. （已受理）. **第一发明人**
   
