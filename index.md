@@ -47,7 +47,7 @@ I received B.E. degree from  Beijing Institute of Technology in 2022. I am curre
 
 
 ### 项目经历
-作为小组负责人和核心技术骨干参与完成以下国家级大型活动的仿真工作：
+作为小组负责人和核心技术骨干参与完成以下项目：
   - 2024年 中央电视台龙年春晚节目预演仿真
  
   - 2023年 杭州第19届亚运会开幕式预演仿真
