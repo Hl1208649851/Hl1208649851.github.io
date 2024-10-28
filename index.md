@@ -59,4 +59,4 @@ I received B.E. degree from  Beijing Institute of Technology in 2022. I am curre
   - 2022年 北京理工大学“挑战杯·元宇宙”云交互空间项目
  
 
-熟练掌握Unreal引擎开发，掌握C++编程语言，熟悉VR开发
+熟练掌握Unreal引擎开发，熟悉VR开发，了解C++、Pytorch深度学习框架
